@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string>TalkSoup</string>
 	<key>CFBundleIconFile</key>
-	<string>TalkSoup.icns</string>
+	<string>TalkSoup.tiff</string>
 	<key>CFBundleIdentifier</key>
 	<string>org.gnustep.TalkSoup</string>
 	<key>CFBundleInfoDictionaryVersion</key>

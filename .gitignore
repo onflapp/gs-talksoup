@@ -1,4 +1,5 @@
 obj/
+derived_src/
 *.framework
 *.bundle
 *.app
